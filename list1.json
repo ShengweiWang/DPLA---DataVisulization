@@ -1,0 +1,12 @@
+{
+    "collectionlist":[
+        {"fileName":"minesota",
+        "data":"profiles_10-26/minnesota-collProfile.json"},
+        {"fileName":"indiana",
+        "data":"profiles_10-26/indiana-collProfile.json"},
+        {"fileName":"harverd",
+        "data":"profiles_10-26/harvard-collProfile.json"},
+        {"fileName":"invalid",
+        "data":"profiles_10-26/minn-invalid-rights12p.json"}
+    ]
+}
